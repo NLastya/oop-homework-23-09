@@ -7,6 +7,7 @@
 
 class Rectangle{
     public:
+        rectangle() = default;
         double rectangle(double newA, double newB, double newX, double newY);
         double lenght();
 
