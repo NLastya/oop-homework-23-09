@@ -11,11 +11,10 @@ class Rectangle{
         double lenght();
 
     private:
-    // неявный конструктор
-        // double x1{0.0};
-        // double y1{0.0};
-        // double x2{-4.0};
-        // double y2{0.0};
+        double x1{0.0};
+        double y1{0.0};
+        double x2{-4.0};
+        double y2{0.0};
 
         double a{5.0};
         double b{4.0};
